@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m2neVpgebqxjBrzQL+M/wcUvoFsE4ldrsl0/0D2dh1s=",
+  "Source": "web-api-azure-table",
+  "BasePath": "_content/web-api-azure-table",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

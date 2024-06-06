@@ -1,0 +1,6 @@
+@web_api_azure_table_HostAddress = http://localhost:5077
+
+GET {{web_api_azure_table_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
